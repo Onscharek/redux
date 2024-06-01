@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+Button{background-color: rgba(137, 43, 226, 0.61) ;
+  color:white;  
+  text-shadow: black 2px 2px 2px ;
+  border-Color: black; box-Shadow:  4px 4px rgba(0, 0, 0, 0.5); margin-Top:1% }
+  /* App.css */
+.text1-style {
+  color: red;
+  font-weight: bold;
+}
+#tex{background-color: rgba(255, 255, 255, 0.159)
+  ;
+  text-shadow: black 1px 1px 1px ;
+  ;text-align: center ;
+  padding-top: 1%
+  ; margin-top: 1.5%;
+  margin-left: 18%;margin-right: 18%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
+  border-radius: 100%;
+  color:rgb(137, 43, 226);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+
+
+  #ed {background-color: rgba(137, 43, 226, 0.61) ;
+    color:white;
+    border-Color: black; box-Shadow:  4px 4px rgba(0, 0, 0, 0.5); margin-Top:1% }
+
+    .done{text-decoration: line-through; 
+    }
